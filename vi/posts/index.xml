@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Phạm Duy Chiến</title>
-    <link>http://example.org/vi/posts/</link>
+    <link>https://python254.github.io/MyBlog/vi/posts/</link>
     <description>Recent content in Posts on Phạm Duy Chiến</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -15,7 +15,7 @@
     <webMaster>phamduychien25042001@gmail.com (Phạm Duy Chiến)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/vi/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://python254.github.io/MyBlog/vi/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     

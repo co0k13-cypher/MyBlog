@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
+	   	<loc>https://python254.github.io/MyBlog/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://example.org/vi/sitemap.xml</loc>
+	   	<loc>https://python254.github.io/MyBlog/vi/sitemap.xml</loc>
 		
 	   	<lastmod>2019-12-17T23:58:33+09:00</lastmod>
 		

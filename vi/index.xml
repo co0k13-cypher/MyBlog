@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Phạm Duy Chiến</title>
-    <link>http://example.org/vi/</link>
+    <link>https://python254.github.io/MyBlog/vi/</link>
     <description>Recent content on Phạm Duy Chiến</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 17 Dec 2019 23:58:33 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/vi/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://python254.github.io/MyBlog/vi/index.xml" rel="self" type="application/rss+xml" />
     
     
     
